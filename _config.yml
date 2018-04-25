@@ -1,0 +1,22 @@
+# Site settings
+title: 学习搭建jekyll博客
+description: 怎样用jekyll搭建一个博客
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: niujingxian
+user_description: niuni
+
+
+user_title: Software Developer
+email: anon@anon.com
+twitter_username: lorem_ipsum
+github_username:  lorem_ipsum
+gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
