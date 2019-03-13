@@ -1,5 +1,5 @@
 ---
-layout:
+layout: default
 title:  "美好的一天"
 date:   2019-3-17 22:26:29 +0800
 categories: daily
