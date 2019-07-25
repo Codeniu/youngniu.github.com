@@ -7,6 +7,8 @@
 　　<h2>{{ page.title }}</h2>
 	<h2>{{ page.about}}</h2>
 
+	{% include head %}
+
 　　<p>最新文章</p>
 
 　　<ul>
