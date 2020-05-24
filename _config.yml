@@ -5,10 +5,10 @@ baseurl: "/youngniu" # the subpath of your site, e.g. /blog
 url: "Codeniu.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: niujingxian
+username: youngniu
 user_description: niu
 
-user_title: Software Developer
+user_title: 
 email: codeniu@163.com
 twitter_username: lorem_ipsum
 github_username: lorem_ipsum
