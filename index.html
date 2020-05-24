@@ -1,3 +1,9 @@
+---
+　layout: default
+　title: 拾忆
+  about: about
+---
+
 <!DOCTYPE html>
 <html lang="en" >
 <head>
@@ -15,11 +21,5 @@
   </div>
   <div class="name">Niu</div>
 </a>  
-
-<ul>
-{% for post in site.posts %}
-<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
 </body>
 </html>
