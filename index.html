@@ -4,24 +4,6 @@
   about: about
 ---
 
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>youngniu</title>
-  <link rel="stylesheet" href="./style.css">
-
-</head>
-<body>
-<a class="container" href="/" target="_blank"> 
-  <div class="logo">
-    <div class="uno"></div>
-    <div class="dos"></div>
-    <div class="tres"></div>
-  </div>
-  <div class="name">Niu</div>
-</a>  
-
 <p>最新文章</p>
 
 <ul>
@@ -29,5 +11,4 @@
 <li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-</body>
-</html>
+
