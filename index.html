@@ -2,7 +2,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - Where the heck do I work</title>
+  <title>youngniu</title>
   <link rel="stylesheet" href="./style.css">
 
 </head>
@@ -15,5 +15,11 @@
   </div>
   <div class="name">Niu</div>
 </a>  
+
+<ul>
+{% for post in site.posts %}
+<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
 </body>
 </html>
