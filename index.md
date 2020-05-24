@@ -1,6 +1,6 @@
 ---
 　layout: default
-　title: Home
+　title: 拾忆
   about: about
 ---
 
