@@ -1,0 +1,8 @@
+---
+layout: default
+title: "美好的一天"
+date: 2020-12-7
+categories: daily
+---
+
+今天是美好的一天

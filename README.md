@@ -1,1 +1,3 @@
-# http://codeniu.github.io/youngniu
+# A Blog
+
+[youngniu](http://codeniu.github.io/youngniu)

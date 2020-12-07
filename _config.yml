@@ -1,8 +1,8 @@
 # Site settings
 title: youngniu
-description: 我要牛奶
+description: 努力疯长
 baseurl: "/youngniu" # the subpath of your site, e.g. /blog
-url: "Codeniu.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "Codeniu.github.io" # the base hostname & protocol for your site
 
 # User settings
 username: youngniu
@@ -11,7 +11,7 @@ user_description: niu
 user_title: 
 email: codeniu@163.com
 twitter_username: lorem_ipsum
-github_username: lorem_ipsum
+github_username: Codeniu
 gplus_username: lorem_ipsum
 
 # Google-analytics
